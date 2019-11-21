@@ -1,0 +1,1 @@
+SELECT *, postal_code AS zip FROM Students;
