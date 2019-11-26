@@ -1,0 +1,1 @@
+select PostalCode from Students as Learners; 
