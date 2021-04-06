@@ -1,0 +1,1 @@
+mysql> SELECT * FROM  Students WHERE city  != 'a%' or  'c%' or 's%';
