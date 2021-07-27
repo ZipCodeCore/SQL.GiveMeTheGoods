@@ -1,0 +1,1 @@
+SELECT * FROM Students WHERE City = 'a%orc%ors%';
