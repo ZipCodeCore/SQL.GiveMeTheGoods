@@ -1,0 +1,1 @@
+Select PostalCode as Zip from Students;
