@@ -1,0 +1,1 @@
+Select * from Courses where NOT CreditHours Between 10 AND 20;
