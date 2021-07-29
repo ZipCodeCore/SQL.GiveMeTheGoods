@@ -1,0 +1,1 @@
+select * from Students where City like 'a%' or city like 'c%' or city like 's%';
