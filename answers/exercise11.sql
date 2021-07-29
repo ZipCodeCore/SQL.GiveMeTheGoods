@@ -1,0 +1,1 @@
+create view Learners as select * from Students;
