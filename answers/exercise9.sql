@@ -1,1 +1,1 @@
-SELECT * FROM Cources WHERE CourceName between 'ColdFufusion' AND 'Python';
+SELECT * FROM Cources WHERE CourceName BETWEEN 'ColdFufusion' AND 'Python' ORDER BY CourseName;
